@@ -1,0 +1,9 @@
+<svg id="App_Store_White" data-name="App Store White" xmlns="http://www.w3.org/2000/svg" width="240" height="79" viewBox="0 0 240 79">
+  <rect id="Rectangle_114" data-name="Rectangle 114" width="240" height="79" rx="10" fill="#fff"/>
+  <g id="apple" transform="translate(25.08 14.496)">
+    <path id="Path_597" data-name="Path 597" d="M59.561,156.276c-7.41-.043-13.539-15.169-13.539-22.872,0-12.583,9.44-15.338,13.078-15.338a15.048,15.048,0,0,1,4.934,1.214,11.029,11.029,0,0,0,2.818.808,8.767,8.767,0,0,0,2.021-.655,16.2,16.2,0,0,1,6.092-1.473h.014c1.785,0,7.2.392,10.45,5.278l.762,1.145-1.1.828c-1.567,1.182-4.426,3.339-4.426,7.611a8.59,8.59,0,0,0,4.793,7.941c.687.413,1.4.839,1.4,1.771,0,.608-4.855,13.669-11.9,13.669a9.574,9.574,0,0,1-4.02-.976,8.151,8.151,0,0,0-3.578-.862,9.2,9.2,0,0,0-2.833.766,13.877,13.877,0,0,1-4.914,1.147Z" transform="translate(-46.022 -106.487)"/>
+    <path id="Path_598" data-name="Path 598" d="M264.508,0c.184,6.62-4.551,11.212-9.279,10.924C254.449,5.642,259.957,0,264.508,0Z" transform="translate(-234.818 0)"/>
+  </g>
+  <text id="Download_on_the" data-name="Download on the" transform="translate(86.619 29.237)" font-size="16" font-family="SFProDisplay-Regular, SF Pro Display"><tspan x="0" y="0">Download on the</tspan></text>
+  <text id="App_Store" data-name="App Store" transform="translate(87 60)" font-size="28" font-family="SFProDisplay-Regular, SF Pro Display"><tspan x="0" y="0">App Store</tspan></text>
+</svg>
